@@ -7,11 +7,11 @@
 </h1>
 
 <p>
-  <sub><b>PLATFORM ENGINEER</b> &nbsp;·&nbsp; <code>terraform</code> &nbsp;·&nbsp; <code>aws</code> &nbsp;·&nbsp; <code>azure</code> &nbsp;·&nbsp; <code>gcp</code> &nbsp;·&nbsp; <code>docker</code> &nbsp;·&nbsp; <code>ansible</code></sub>
+  <sub><b>PLATFORM ENGINEER</b> &nbsp;·&nbsp; <code>terraform</code> &nbsp;·&nbsp; <code>aws</code> &nbsp;·&nbsp; <code>azure</code> &nbsp;·&nbsp; <code>gcp</code> &nbsp;·&nbsp; <code>docker</code> &nbsp;·&nbsp; <code>kubernetes</code> &nbsp;·&nbsp; <code>ansible</code> &nbsp;·&nbsp; <code>linux</code></sub>
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=C6F24E&center=true&vCenter=true&width=560&lines=Platform+Engineer+%2F%2F+infra+as+code;terraform+%C2%B7+aws+%C2%B7+azure+%C2%B7+gcp;building+%3E+Study-hub;studying+%3E+DevOps+%26+Cloud+Native;code.+automate.+ship.+evolve." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=C6F24E&center=true&vCenter=true&width=560&lines=Platform+Engineer+%2F%2F+infra+as+code;terraform+%C2%B7+aws+%C2%B7+azure+%C2%B7+gcp;docker+%C2%B7+kubernetes+%C2%B7+linux+%C2%B7+networking;building+%3E+Study-hub;studying+%3E+DevOps+%26+Cloud+Native;code.+automate.+ship.+evolve." alt="typing" />
 </a>
 
 <br>
@@ -29,7 +29,9 @@
 const engineer = {
   handle:    "pmacoy",
   role:      "Platform Engineer",
-  stack:     ["Terraform", "AWS", "Azure", "GCP", "Docker", "Ansible"],
+  stack:     ["Terraform", "AWS", "Azure", "GCP",
+              "Docker", "Kubernetes", "Ansible", "Linux"],
+  networking:"routing · switching · DNS · load balancing",
   studying:  "DevOps · Cloud Native · Automation",
   building:  "Study-hub — repository for DevOps studies",
   mindset:   "code. automate. ship. evolve.",
@@ -55,10 +57,16 @@ const engineer = {
 <sub>**CONTAINERS_&_ORCHESTRATION**</sub>
 
 ![Docker](https://img.shields.io/badge/Docker-0B0B0C?style=for-the-badge&logo=docker&logoColor=C6F24E)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0B0B0C?style=for-the-badge&logo=kubernetes&logoColor=C6F24E)
 
-<sub>**OS_&_TOOLING**</sub>
+<sub>**OS_&_NETWORKING**</sub>
 
 ![Linux](https://img.shields.io/badge/Linux-0B0B0C?style=for-the-badge&logo=linux&logoColor=C6F24E)
+![Networking](https://img.shields.io/badge/Networking-0B0B0C?style=for-the-badge&logo=cisco&logoColor=C6F24E)
+![Nginx](https://img.shields.io/badge/Nginx-0B0B0C?style=for-the-badge&logo=nginx&logoColor=C6F24E)
+
+<sub>**TOOLING**</sub>
+
 ![Git](https://img.shields.io/badge/Git-0B0B0C?style=for-the-badge&logo=git&logoColor=C6F24E)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B0B0C?style=for-the-badge&logo=githubactions&logoColor=C6F24E)
 
@@ -72,13 +80,16 @@ const engineer = {
 [ OK ]  identity module          loaded
 [ OK ]  cloud providers          aws · azure · gcp
 [ OK ]  iac engines              terraform · ansible
-[ OK ]  runtime                  docker
+[ OK ]  container runtime        docker · kubernetes
+[ OK ]  network layer            routing · dns · load balancing
 [ OK ]  automation pipeline      online
 
 ────────────────────────────────────────
  HANDLE      : @Pmacoy
  ROLE        : Platform Engineer
- STACK       : Terraform · AWS · Azure · GCP · Docker · Ansible
+ STACK       : Terraform · AWS · Azure · GCP
+               Docker · Kubernetes · Ansible · Linux
+ NETWORKING  : routing · dns · load balancing
  BUILDING    : Study-hub (DevOps studies)
  STUDYING    : DevOps · Cloud Native
  STATUS      : ONLINE
