@@ -33,6 +33,7 @@ const engineer = {
   stack:     ["Terraform", "Azure", "AWS", "Kubernetes",
               "Docker", "Ansible", "GitHub Actions", "Linux"],
   building:  "azure-platform-engineering — plataforma interna de ponta a ponta",
+  education: "Mestrado em Engenharia de Computação · UBI",
   studying:  "AZ-104 · Cloud Native · GitOps",
   principle: "nada conta como pronto até o CI ficar verde contra a nuvem real",
   status:    "online"
@@ -205,18 +206,12 @@ const engineer = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pmacoy&show_icons=true&hide_border=false&bg_color=0B0B0C&title_color=C6F24E&text_color=F4F1EA&icon_color=C6F24E&border_color=2A2A2E&count_private=true" alt="stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=Pmacoy&theme=dark&background=0B0B0C&stroke=2A2A2E&ring=C6F24E&fire=C6F24E&currStreakLabel=C6F24E&sideLabels=F4F1EA&currStreakNum=F4F1EA&sideNums=F4F1EA&dates=8A8A90&border=2A2A2E" alt="streak" />
-
-<br><br>
-
-<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pmacoy&layout=compact&hide_border=false&bg_color=0B0B0C&title_color=C6F24E&text_color=F4F1EA&border_color=2A2A2E&langs_count=8" alt="top langs" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pmacoy&bg_color=0B0B0C&color=F4F1EA&line=C6F24E&point=C6F24E&area=true&area_color=C6F24E&hide_border=false&custom_title=commit%20activity%20//%20last%2031%20days" alt="activity graph" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pmacoy&show_icons=true&hide_border=false&bg_color=0B0B0C&title_color=C6F24E&text_color=F4F1EA&icon_color=C6F24E&border_color=2A2A2E&count_private=true" alt="stats" />
 
 </div>
+
+<sub>O calendário de contribuições que o GitHub desenha logo abaixo deste README já cobre a atividade ao longo do tempo — por isso não há um segundo gráfico aqui.</sub>
 
 <br>
 
